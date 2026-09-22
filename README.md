@@ -1,3 +1,3 @@
 # hellow
 <br>
-Author=Dhaval sathavara
+Author=Dhaval sathvara
